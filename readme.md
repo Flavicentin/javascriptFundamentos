@@ -1,16 +1,16 @@
-JAVASCRIPT FUNDAMENTOS
+# JAVASCRIPT FUNDAMENTOS
 
-O que é Estruturas De Dados?
+## O que é Estruturas De Dados?
 
 Estruturas de dados é diferente de dados (3; #; 9.13; true; "text")
 
-Estrutura de dados visa organizar e adminitrar meus dados, como o próprio
+Estrutura de dados visa organizar e administrar meus dados, como o próprio
 nome já diz
 
-Exemplo:
-Lista de aprovados
-	1. João
-	2. Maria
-	3. Anna
-	4. Gustavo
-	5. Camila
+### Exemplo: Uma lista de aprovados, seria considerado uma estruturas de dados
+
+1. João
+2. Maria
+3. Anna
+4. Gustavo 
+5. Camila
